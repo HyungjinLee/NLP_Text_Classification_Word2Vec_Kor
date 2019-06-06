@@ -1,0 +1,2 @@
+# NLP_Text_Classification_Word2Vec_Kor
+Word2Vec Embedding Korean Version
